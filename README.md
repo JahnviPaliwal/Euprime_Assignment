@@ -31,7 +31,6 @@ It is designed to help business developers prioritize contacts most likely to en
 ### 3. Ranking (Propensity to Buy Score)
 - Scores leads (0–100) based on weighted signals:
   - Role Fit (Director/VP/Head) 
-  - Company Funding 
   - Publication recency (last 2 years) 
   - Conference presence 
   - Location in key hubs 
