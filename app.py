@@ -220,7 +220,7 @@ def rank_leads(leads):
 
 def display_scoreboard(leads):
     st.set_page_config(layout="wide")
-    st.title("🏆 High-Intent Lead Scoreboard")
+    st.title("High-Intent Lead Scoreboard")
     df = pd.DataFrame(leads)
     df = df[
         ["name", "title", "company", "location", "email", "phone", "source", "score"]
@@ -252,3 +252,4 @@ def run_pipeline():
 
 ranked_leads = run_pipeline()
 display_scoreboard(ranked_leads)
+
