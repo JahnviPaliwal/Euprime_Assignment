@@ -1,0 +1,9 @@
+name,title,company,location,email,phone,source,score
+Jane Smith,Director of Toxicology,Pfizer,"Boston, MA",jane@pfizer.com,16175550123,linkedin,85
+Alice Brown,Head of Safety Assessment,Gilead,"San Francisco, CA",alice@gilead.com,24681012,conference,80
+John Doe,VP Preclinical,Novartis,"Basel, Switzerland",john@novartis.com,3245678920,linkedin,70
+Dr.Anna Müller,Principal Investigator,University of Heidelberg,"Heidelberg, Germany",dr.anna@university.com,49891234567,pubmed,70
+Dr.Sofia Alvarez,Associate Professor of Toxicology,University of Barcelona,"Barcelona, Spain",dr.sofia@university.com,34935556677,pubmed,70
+Robert Johnson,Head of Investigative Toxicology,AstraZeneca,"Cambridge, UK",robert@astrazeneca.com,4.42071E+11,linkedin,65
+Michael Chen,"Senior Scientist, Toxicology",Roche,"Basel, Switzerland",michael@roche.com,41615551234,conference,60
+Emily Turner,"Principal Scientist, Drug Safety",Biogen,"Cambridge, MA",emily@biogen.com,16175559876,linkedin,45
